@@ -1,0 +1,10 @@
+[project]
+name = "py-todoterm"
+version = "0.1.0"
+description = "Todo List in the Terminal"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "blinker>=1.9.0",
+    "humanize>=4.12.3",
+]
